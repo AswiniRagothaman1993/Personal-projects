@@ -1,8 +1,8 @@
-# Problem Statement:
+## Problem Statement:
     The College management data is spread acroos different sources and the team faces difficulty in tracking progress. 
-# Project Overview:
+## Project Overview:
     This project is about developing a comprehensive College management dashboard, which help the team to track progress and improve operational efficiency.
-# Data Source:
+## Data Source:
     CSV files
-# Tools : 
+## Tools : 
     SQL , Power BI
